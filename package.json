@@ -1,6 +1,6 @@
 {
   "name": "persona-shard-cipher",
-  "description": "Encrypted Mental Health Survey using FHEVM - Privacy-preserving mental wellness assessment",
+  "description": "Encrypted Mental Health Survey DApp using FHEVM - Privacy-preserving mental wellness assessment with Zama's fully homomorphic encryption",
   "version": "1.0.0",
   "engines": {
     "node": ">=20",
