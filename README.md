@@ -8,6 +8,8 @@ Encrypted Mental Health Survey DApp using Fully Homomorphic Encryption (FHEVM)
 
 **Video Demo**: [persona-shard.mp4](persona-shard.mp4)
 
+> 📹 **Demo Video**: Watch the full demonstration of the encrypted mental health survey functionality
+
 ## Overview
 
 Persona Shard is a decentralized application that enables privacy-preserving mental health surveys using Zama's Fully Homomorphic Encryption Virtual Machine (FHEVM). Users can submit survey responses that are encrypted on-chain, and only they can decrypt their own results.
