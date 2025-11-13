@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Persona Shard - Start Local Development Environment
-# This script starts a local Hardhat network for development
+# This script starts a local Hardhat network for FHEVM development and testing
 
 echo "🚀 Starting Persona Shard Local Development Environment..."
 
