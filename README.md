@@ -4,7 +4,7 @@ Encrypted Mental Health Survey DApp using Fully Homomorphic Encryption (FHEVM)
 
 ## 🚀 Live Demo
 
-**Vercel Deployment**: [https://persona-shard1.vercel.app/](https://persona-shard1.vercel.app/)
+**Vercel Deployment**: [https://persona-shard-cipher-mcfi.vercel.app/](https://persona-shard-cipher-mcfi.vercel.app/)
 
 **Video Demo**: [persona-shard.mp4](persona-shard.mp4)
 
